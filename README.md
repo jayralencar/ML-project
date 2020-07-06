@@ -16,5 +16,10 @@ pip install -r requirements.txt
 
 ## Normalize data
 ```
-python normalize.py
+python normalize.py 
+```
+
+## Dissimilarity matrix
+```
+python distance_matrix.py 
 ```
